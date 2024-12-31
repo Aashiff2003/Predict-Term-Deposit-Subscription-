@@ -41,9 +41,9 @@ EDA was performed to uncover patterns and correlations within the dataset. Key f
 
 ### Visualizations
 1. **Categorical Feature Distribution**:
-   ![Categorical Features](images/categorical_features.png)
+   ![Categorical Features](image/categorical_features.png)
 2. **Correlation Heatmap**:
-   ![Correlation Heatmap](images/correlation_heatmap.png)
+   ![Correlation Heatmap](image/correlation_heatmap.png)
 
 ## Preprocessing
 Key steps in preprocessing include:
@@ -79,12 +79,12 @@ The following metrics were used for model evaluation:
 ### Visualizing Results
 1. **Confusion Matrices**:
    - **Neural Network**:
-     ![NN Confusion Matrix](images/nn_confusion_matrix.png)
+     ![NN Confusion Matrix](image/nn_confusion_matrix.png)
    - **Random Forest**:
-     ![RF Confusion Matrix](images/rf_confusion_matrix.png)
+     ![RF Confusion Matrix](image/rf_confusion_matrix.png)
 
 2. **ROC Curves**:
-   ![ROC Curves](images/roc_curves.png)
+   ![ROC Curves](image/roc_curves.png)
 
 ## Setup
 1. Clone the repository:
